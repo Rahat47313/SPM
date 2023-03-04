@@ -1,2 +1,2 @@
-# SPM
+# SPMS
 Student performance monitoring system
